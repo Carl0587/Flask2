@@ -10,6 +10,12 @@ posts = [
         'title': 'Movie Post 1',
         'content': 'bad movie',
         'datePosted': 'December 1, 2018'
+    },
+    {
+        'author': 'Carlos Ortega',
+        'title': 'Movie Post 2',
+        'content': "bad movie don't go",
+        'datePosted': 'December 2, 2018'
     }
 ]
 
